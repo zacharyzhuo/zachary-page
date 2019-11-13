@@ -46,12 +46,12 @@ export default {
           item: 'Work',
           link: 'Work',
           scrollSpeed: 1400
-        },
-        {
-          item: 'Experience & Education',
-          link: 'experienceAndEducation',
-          scrollSpeed: 1400
         }
+        // {
+        //   item: 'Experience & Education',
+        //   link: 'experienceAndEducation',
+        //   scrollSpeed: 1400
+        // }
         // ,
         // {
         //   item: 'Sepcial',
